@@ -3,4 +3,4 @@
 
 Number | Project      | Resources
 ------ | ------------- |-------------------------------
-1 | [bike rental system](https://github.com/Frankpromise/object-oriented-programming-project/tree/master/bike_rental) | python, IDE
+1 | [deploy a webserver on aws using terraform](https://github.com/Frankpromise/Terraform-aws-projects/tree/master/project1) | AWS account, visual studio code
